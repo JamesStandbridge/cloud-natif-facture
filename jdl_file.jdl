@@ -1,0 +1,3 @@
+entity Facture {
+	montant Long
+}

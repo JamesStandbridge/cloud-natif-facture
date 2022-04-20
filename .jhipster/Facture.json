@@ -1,0 +1,23 @@
+{
+  "name": "Facture",
+  "fields": [
+    {
+      "fieldName": "montant",
+      "fieldType": "Long"
+    }
+  ],
+  "relationships": [],
+  "entityTableName": "facture",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "microserviceName": "facture",
+  "clientRootFolder": "facture",
+  "databaseType": "sql",
+  "changelogDate": "20220323131724"
+}
